@@ -6,6 +6,7 @@ Window {
     width: 600
     height: 1024
 
+
     Column {
         id: charts
         spacing: 100
@@ -15,7 +16,6 @@ Window {
 
         Row {
             id: row_level_1
-
 
             Repeater {
                 id: month_level_1
